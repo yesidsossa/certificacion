@@ -18,14 +18,16 @@
     <com.google.android.material.textfield.TextInputLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_margin="20dp" android:id="@+id/textInputLayout" tools:layout_editor_absoluteX="20dp">
+            android:layout_margin="20dp" android:id="@+id/textInputLayout" tools:layout_editor_absoluteX="20dp"
+            tools:ignore="MissingConstraints">
 
     </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.textfield.TextInputLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_margin="20dp" android:id="@+id/textInputLayout2" tools:layout_editor_absoluteX="20dp">
+            android:layout_margin="20dp" android:id="@+id/textInputLayout2" tools:layout_editor_absoluteX="20dp"
+            tools:ignore="MissingConstraints">
 
     </com.google.android.material.textfield.TextInputLayout>
 
