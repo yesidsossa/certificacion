@@ -18,7 +18,7 @@
                 android:layout_weight="2">
 
             <LinearLayout
-                    android:background="@color/design_default_color_primary_dark"
+                    android:background="@color/colorBlue"
                     android:layout_weight="1"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"/>
@@ -39,12 +39,12 @@
                 android:layout_weight="2">
 
             <LinearLayout
-                    android:background="@color/colorPrimaryDark"
+                    android:background="@color/colorYellow"
                     android:layout_weight="1"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"/>
             <LinearLayout
-                    android:background="@color/common_google_signin_btn_text_light_default"
+                    android:background="@color/colorRed"
                     android:layout_weight="1"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"/>
@@ -59,17 +59,17 @@
                 android:layout_weight="2">
 
             <LinearLayout
-                    android:background="@color/colorPrimaryDark"
-                    android:layout_weight="1"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"/>
-            <LinearLayout
                     android:background="@color/common_google_signin_btn_text_light_default"
                     android:layout_weight="1"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"/>
             <LinearLayout
-                    android:background="@color/colorPrimaryDark"
+                    android:background="@color/cardview_light_background"
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"/>
+            <LinearLayout
+                    android:background="@color/common_google_signin_btn_text_light_default"
                     android:layout_weight="1"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"/>
@@ -101,10 +101,10 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
-                android:layout_weight="2">
+                android:layout_weight="2.1">
 
             <LinearLayout
-                    android:background="@color/design_default_color_primary_dark"
+                    android:background="@color/colorBlue"
                     android:layout_weight="1"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"/>
@@ -116,12 +116,12 @@
                     android:layout_height="match_parent">
 
                 <LinearLayout
-                        android:background="@color/cardview_light_background"
+                        android:background="@color/colorRed"
                         android:layout_weight="1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"/>
                 <LinearLayout
-                        android:background="@color/colorAccent"
+                        android:background="@color/colorYellow"
                         android:layout_weight="1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"/>
@@ -140,8 +140,8 @@
                 android:layout_weight="1.5">
 
             <LinearLayout
-                    android:background="@color/colorPrimaryDark"
-                    android:layout_weight="1"
+                    android:background="@color/colorGreen"
+                    android:layout_weight="1.1"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"/>
             <LinearLayout
@@ -157,7 +157,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"/>
                 <LinearLayout
-                        android:background="@color/colorAccent"
+                        android:background="@color/colorRed"
                         android:layout_weight="1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"/>
@@ -194,12 +194,12 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
                     <LinearLayout
-                            android:background="@color/colorAccent"
+                            android:background="@color/colorRed"
                             android:layout_weight="1"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"/>
                     <LinearLayout
-                            android:background="@color/cardview_shadow_start_color"
+                            android:background="@color/colorYellow"
                             android:layout_weight="1"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"/>
@@ -207,7 +207,7 @@
 
                 </LinearLayout>
                 <LinearLayout
-                        android:background="@color/cardview_shadow_start_color"
+                        android:background="@color/colorYellow"
                         android:layout_weight="1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"/>
