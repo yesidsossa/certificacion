@@ -1,346 +1,390 @@
 [
     {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_cascading_menu_item_layout.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_cascading_menu_item_layout.xml"
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sopequipo/Documents/certificacion/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_header_item_layout.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_popup_menu_header_item_layout.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_action_bar_up_container.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_design_navigation_item_separator.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_navigation_item_separator.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_design_menu_item_action_area.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_menu_item_action_area.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_material.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/Users/sopequipo/Documents/Android studio/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/c4476d0cd9a0165f33b5a831a23ed75d/media-1.0.0/res/layout/notification_template_media_custom.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/drawable_logo_firebase.jpg.flat",
-        "source": "/Users/sopequipo/Documents/Android studio/app/src/main/res/drawable/logo_firebase.jpg"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/sopequipo/Documents/Android studio/app/src/main/res/drawable/ic_launcher_background.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_tooltip.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_tooltip.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/sopequipo/Documents/Android studio/app/src/main/res/mipmap-mdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/c4476d0cd9a0165f33b5a831a23ed75d/media-1.0.0/res/layout/notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_design_layout_snackbar_include.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_layout_snackbar_include.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_icon.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_design_navigation_item_header.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_navigation_item_header.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_design_bottom_navigation_item.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_bottom_navigation_item.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_mtrl_layout_snackbar.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/mtrl_layout_snackbar.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_title_material.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_alert_dialog_title_material.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b045f6aef466c2d24a646fe0fb079ac9/core-1.0.2/res/layout-v21/notification_action_tombstone.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_activity_register.xml.flat",
-        "source": "/Users/sopequipo/Documents/Android studio/app/src/main/res/layout/activity_register.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_search_view.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_popup_menu_item_layout.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b045f6aef466c2d24a646fe0fb079ac9/core-1.0.2/res/layout-v21/notification_template_custom_big.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b045f6aef466c2d24a646fe0fb079ac9/core-1.0.2/res/layout-v21/notification_template_icon_group.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout-sw600dp-v13_design_layout_snackbar.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/sopequipo/Documents/Android studio/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/c4476d0cd9a0165f33b5a831a23ed75d/media-1.0.0/res/layout/notification_template_big_media.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_list_menu_item_layout.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_design_navigation_item_subheader.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_navigation_item_subheader.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/Users/sopequipo/Documents/Android studio/app/src/main/res/layout/activity_main.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_design_navigation_menu_item.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_navigation_menu_item.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_design_bottom_sheet_dialog.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_bottom_sheet_dialog.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/c4476d0cd9a0165f33b5a831a23ed75d/media-1.0.0/res/layout/notification_template_media.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_select_dialog_multichoice_material.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_screen_content_include.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_screen_content_include.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/sopequipo/Documents/Android studio/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/sopequipo/Documents/Android studio/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_action_bar_title_item.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/sopequipo/Documents/Android studio/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b045f6aef466c2d24a646fe0fb079ac9/core-1.0.2/res/layout-v21/notification_action.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_select_dialog_material.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_radio.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_checkbox.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout-v26_abc_screen_toolbar.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout-v26/abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_mtrl_layout_snackbar_include.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/mtrl_layout_snackbar_include.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_design_layout_tab_text.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_layout_tab_text.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/Users/sopequipo/Documents/Android studio/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b045f6aef466c2d24a646fe0fb079ac9/core-1.0.2/res/layout/notification_template_part_time.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_action_mode_close_item_material.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/c4476d0cd9a0165f33b5a831a23ed75d/media-1.0.0/res/layout/notification_template_big_media_narrow_custom.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_action_menu_item_layout.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_action_menu_item_layout.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_design_text_input_password_icon.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_text_input_password_icon.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/sopequipo/Documents/Android studio/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/sopequipo/Documents/Android studio/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_design_navigation_menu.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_navigation_menu.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/sopequipo/Documents/Android studio/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_design_layout_tab_icon.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_layout_tab_icon.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout-sw600dp-v13_mtrl_layout_snackbar.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_design_navigation_item.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_navigation_item.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/Users/sopequipo/Documents/Android studio/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/c4476d0cd9a0165f33b5a831a23ed75d/media-1.0.0/res/layout/notification_media_action.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/sopequipo/Documents/Android studio/app/src/main/res/mipmap-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_select_dialog_item_material.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/select_dialog_item_material.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_expanded_menu_layout.xml.flat",
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_expanded_menu_layout.xml.flat",
         "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/c4476d0cd9a0165f33b5a831a23ed75d/media-1.0.0/res/layout/notification_template_big_media_narrow.xml"
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/c4476d0cd9a0165f33b5a831a23ed75d/media-1.0.0/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_button_bar_material.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_alert_dialog_button_bar_material.xml"
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_design_navigation_item_separator.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_navigation_item_separator.xml"
     },
     {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/c4476d0cd9a0165f33b5a831a23ed75d/media-1.0.0/res/layout/notification_template_lines_media.xml"
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_action_menu_layout.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_action_menu_layout.xml"
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/c4476d0cd9a0165f33b5a831a23ed75d/media-1.0.0/res/layout/notification_template_big_media.xml"
     },
     {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/c4476d0cd9a0165f33b5a831a23ed75d/media-1.0.0/res/layout/notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/c4476d0cd9a0165f33b5a831a23ed75d/media-1.0.0/res/layout/notification_template_big_media_custom.xml"
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_radio.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_select_dialog_singlechoice_material.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_dialog_title_material.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "/Users/sopequipo/Documents/Android studio/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_screen_simple.xml.flat",
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_screen_simple.xml.flat",
         "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_screen_simple.xml"
     },
     {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/drawable_banner_firebase.png.flat",
-        "source": "/Users/sopequipo/Documents/Android studio/app/src/main/res/drawable/banner_firebase.png"
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b045f6aef466c2d24a646fe0fb079ac9/core-1.0.2/res/layout/notification_template_part_chronometer.xml"
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_design_layout_tab_icon.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_layout_tab_icon.xml"
     },
     {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_design_layout_snackbar.xml.flat",
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_action_menu_item_layout.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_screen_content_include.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b045f6aef466c2d24a646fe0fb079ac9/core-1.0.2/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_mtrl_layout_snackbar_include.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/mtrl_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/drawable_banner_firebase.png.flat",
+        "source": "/Users/sopequipo/Documents/certificacion/app/src/main/res/drawable/banner_firebase.png"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_example_linear.xml.flat",
+        "source": "/Users/sopequipo/Documents/certificacion/app/src/main/res/layout/example_linear.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_places_autocomplete_main_overlay.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b7eadf5cd1e93901a1b0a9973c28d07e/jetified-places-1.1.0/res/layout/places_autocomplete_main_overlay.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/c4476d0cd9a0165f33b5a831a23ed75d/media-1.0.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_activity_register.xml.flat",
+        "source": "/Users/sopequipo/Documents/certificacion/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_design_bottom_sheet_dialog.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sopequipo/Documents/certificacion/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/c4476d0cd9a0165f33b5a831a23ed75d/media-1.0.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout-sw600dp-v13_design_layout_snackbar.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_places_autocomplete_error_text.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b7eadf5cd1e93901a1b0a9973c28d07e/jetified-places-1.1.0/res/layout/places_autocomplete_error_text.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_icon.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_select_dialog_material.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_tooltip.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/sopequipo/Documents/certificacion/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sopequipo/Documents/certificacion/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/sopequipo/Documents/certificacion/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/drawable_logo_firebase.jpg.flat",
+        "source": "/Users/sopequipo/Documents/certificacion/app/src/main/res/drawable/logo_firebase.jpg"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/sopequipo/Documents/certificacion/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_dialog_title_material.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/sopequipo/Documents/certificacion/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/c4476d0cd9a0165f33b5a831a23ed75d/media-1.0.0/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_select_dialog_multichoice_material.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/c4476d0cd9a0165f33b5a831a23ed75d/media-1.0.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/c4476d0cd9a0165f33b5a831a23ed75d/media-1.0.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_design_layout_snackbar.xml.flat",
         "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_layout_snackbar.xml"
     },
     {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_screen_simple_overlay_action_mode.xml"
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_places_autocomplete_item_powered_by_google.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b7eadf5cd1e93901a1b0a9973c28d07e/jetified-places-1.1.0/res/layout/places_autocomplete_item_powered_by_google.xml"
     },
     {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_design_navigation_item_header.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_places_autocomplete_search_bar.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b7eadf5cd1e93901a1b0a9973c28d07e/jetified-places-1.1.0/res/layout/places_autocomplete_search_bar.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b045f6aef466c2d24a646fe0fb079ac9/core-1.0.2/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
         "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view.xml.flat",
-        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_activity_chooser_view.xml"
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/sopequipo/Documents/certificacion/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout-v26_abc_screen_toolbar.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_design_bottom_navigation_item.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_design_navigation_item_subheader.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_design_menu_item_action_area.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_design_layout_snackbar_include.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sopequipo/Documents/certificacion/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_design_layout_tab_text.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/sopequipo/Documents/certificacion/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_design_navigation_item.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_action_bar_up_container.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_action_menu_layout.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sopequipo/Documents/certificacion/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_cascading_menu_item_layout.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/menu_menu.xml.flat",
+        "source": "/Users/sopequipo/Documents/certificacion/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_activity_maps.xml.flat",
+        "source": "/Users/sopequipo/Documents/certificacion/app/src/main/res/layout/activity_maps.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b045f6aef466c2d24a646fe0fb079ac9/core-1.0.2/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_design_navigation_menu.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_mtrl_layout_snackbar.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout-sw600dp-v13_mtrl_layout_snackbar.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_material.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_places_autocomplete_progress.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b7eadf5cd1e93901a1b0a9973c28d07e/jetified-places-1.1.0/res/layout/places_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/sopequipo/Documents/certificacion/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_design_text_input_password_icon.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_select_dialog_item_material.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_places_autocomplete_fragment.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b7eadf5cd1e93901a1b0a9973c28d07e/jetified-places-1.1.0/res/layout/places_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_places_autocomplete_item_prediction.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b7eadf5cd1e93901a1b0a9973c28d07e/jetified-places-1.1.0/res/layout/places_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/sopequipo/Documents/certificacion/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/sopequipo/Documents/certificacion/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_action_bar_title_item.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/sopequipo/Documents/certificacion/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/c4476d0cd9a0165f33b5a831a23ed75d/media-1.0.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b045f6aef466c2d24a646fe0fb079ac9/core-1.0.2/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_places_autocomplete_main_fullscreen.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b7eadf5cd1e93901a1b0a9973c28d07e/jetified-places-1.1.0/res/layout/places_autocomplete_main_fullscreen.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_design_navigation_menu_item.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b045f6aef466c2d24a646fe0fb079ac9/core-1.0.2/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b045f6aef466c2d24a646fe0fb079ac9/core-1.0.2/res/layout/notification_template_part_chronometer.xml"
     }
 ]

@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Certificacion</string>
     <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_maps">Map</string>
+
 </resources>

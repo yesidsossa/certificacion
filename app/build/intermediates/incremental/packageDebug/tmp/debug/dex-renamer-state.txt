@@ -1,7 +1,7 @@
-#Fri Jun 14 19:11:48 COT 2019
-base.0=/Users/sopequipo/Documents/Android studio/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+#Wed Jun 19 20:36:38 COT 2019
+base.0=/Users/sopequipo/Documents/certificacion/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=/Users/sopequipo/Documents/Android studio/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
+base.1=/Users/sopequipo/Documents/certificacion/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex

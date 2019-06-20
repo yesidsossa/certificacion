@@ -14,14 +14,16 @@ import androidx.annotation.NonNull
 import com.google.android.gms.tasks.OnCompleteListener
 import android.R.attr.password
 import android.R.attr.password
-
-
-
+import android.view.Menu
+import android.view.MenuItem
+import com.google.firebase.database.DatabaseReference
+import com.google.firebase.database.FirebaseDatabase
 
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {
 
     private lateinit var auth: FirebaseAuth
+    private lateinit var database: DatabaseReference
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -29,21 +31,33 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
         auth = FirebaseAuth.getInstance()
 
+        database = FirebaseDatabase.getInstance().reference
+
+
         btn_login.setOnClickListener(this)
         tv_register.setOnClickListener(this)
 
     }
 
     override fun onClick(v: View?) {
+
         when(v!!.id){
             R.id.btn_login -> { login(et_email.text.toString(),et_pass.text.toString()) }
 
-            R.id.tv_register -> { openRegister() }
+            R.id.tv_register -> {openRegister() }
         }
+    }
+    fun createchild()
+    {
+
+        database.child("addresess").child("address_uYWOMmmkhXe1Fo6mjn6RLxmwGy93").child("origin_lat").setValue("40.712784 ")
+        database.child("addresess").child("address_uYWOMmmkhXe1Fo6mjn6RLxmwGy93").child("origin_long").setValue("-74.005941 ")
+        database.child("addresess").child("address_uYWOMmmkhXe1Fo6mjn6RLxmwGy93").child("destination_lat").setValue("40.711668")
+        database.child("addresess").child("address_uYWOMmmkhXe1Fo6mjn6RLxmwGy93").child("destination_long").setValue("-74.015018")
     }
     fun openRegister()
     {
-        val intent = Intent(this,RegisterActivity::class.java)
+        val intent = Intent(this,MapsActivity::class.java)
         startActivity(intent)
 
     }
@@ -65,6 +79,16 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
             })
 
+    }
+
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        val inflater = menuInflater
+        inflater.inflate(R.menu.menu, menu)
+        return true
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem?): Boolean {
+        return super.onOptionsItemSelected(item)
     }
 
 }

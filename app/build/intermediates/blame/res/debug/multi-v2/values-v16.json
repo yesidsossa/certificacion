@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sopequipo/Documents/Android studio/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
                     "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b045f6aef466c2d24a646fe0fb079ac9/core-1.0.2/res/values-v16/values-v16.xml",
