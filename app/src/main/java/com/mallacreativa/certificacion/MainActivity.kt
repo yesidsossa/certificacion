@@ -57,6 +57,12 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     }
     fun openRegister()
     {
+        val intent = Intent(this,RegisterActivity::class.java)
+        startActivity(intent)
+
+    }
+    fun openMap()
+    {
         val intent = Intent(this,MapsActivity::class.java)
         startActivity(intent)
 
@@ -66,10 +72,10 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     {
 
         auth.signInWithEmailAndPassword(user, pass)
-            .addOnCompleteListener(this, OnCompleteListener<AuthResult> { task ->
+            .addOnCompleteListener(this) { task ->
                 if (task.isSuccessful) {
                     Toast.makeText(this, "Inicio", Toast.LENGTH_SHORT).show()
-
+                    openMap()
 
                 } else {
                     Toast.makeText(this, "No inicio", Toast.LENGTH_SHORT).show()
@@ -77,7 +83,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
                 }
 
-            })
+            }
 
     }
 
