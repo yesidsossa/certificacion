@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="com.mallacreativa.certificacion">
-
     <!--
          The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
          Google Maps Android API v2, but you must specify either coarse or fine
@@ -17,22 +16,29 @@
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
+        <activity android:name=".ListActivity">
+        </activity>
+        <activity android:name=".Driver.DriverLoginActivity">
+        </activity>
+        <activity android:name=".Driver.DriverRegisterActivity">
+        </activity>
 
         <meta-data
                 android:name="com.google.android.maps.v2.API_KEY"
                 android:value="@string/google_maps_key"/>
-
 
         <activity
                 android:name=".MapsActivity"
                 android:label="@string/title_activity_maps">
         </activity>
         <activity
-                android:name=".RegisterActivity"
+                android:name=".User.UserRegisterActivity"
                 android:label="@string/title_activity_login"
                 android:theme="@style/AppTheme.NoActionBar">
         </activity>
-        <activity android:name=".MainActivity">
+        <activity android:name=".User.UserLoginActivity">
+        </activity>
+        <activity android:name=".HomeActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 

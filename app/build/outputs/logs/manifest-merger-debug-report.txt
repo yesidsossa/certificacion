@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:2:1-44:12
-INJECTED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:2:1-44:12
-INJECTED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:2:1-44:12
-INJECTED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:2:1-44:12
+ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:2:1-56:12
 MERGED from [com.google.android.libraries.places:places:1.1.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b7eadf5cd1e93901a1b0a9973c28d07e/jetified-places-1.1.0/AndroidManifest.xml:2:1-26:12
 MERGED from [com.google.android.material:material:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
@@ -14,6 +14,7 @@ MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/sopequipo/.gr
 MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/7fb8cba9227715dee528eafb9d2ab6db/jetified-firebase-auth-16.0.5/AndroidManifest.xml:17:1-42:12
 MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/29f1f84364063b3bd8e727ab903e523e/jetified-firebase-database-16.0.4/AndroidManifest.xml:15:1-25:12
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/539528b73d5929f7c5b160cf6db61234/jetified-play-services-maps-16.1.0/AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/d8b6446b582bd1d3ea9936bd73959d60/lifecycle-extensions-2.0.0/AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/14a609f228be7a0be578896b0f9174e0/jetified-firebase-measurement-connector-impl-17.0.2/AndroidManifest.xml:17:1-34:12
 MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/905a13ccc4ee615bd2749012a6d1768b/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:17:1-55:12
 MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/76c02313a213916edcbc012e0f400af2/jetified-play-services-measurement-api-16.0.2/AndroidManifest.xml:17:1-25:12
@@ -55,43 +56,45 @@ MERGED from [androidx.core:core:1.0.2] /Users/sopequipo/.gradle/caches/transform
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/f9b75644e6c1f41fe5db4a775638f949/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b6aadc2fcd96412daba6d14027f3d864/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/488bc339fe18abda9274466596df01ea/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/ff2132ebaee1c1a88c5321851fa62b4c/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/f299c1b2c81b25bbba88403124bfaa4b/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/bccf5c6ded87537efb307e7a141d40e7/print-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/2d09150e1df3eda843051b1c45f1eeb4/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/5fa2310ca1a5f7e78ba6822ed430992c/lifecycle-process-2.0.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/1c0052c48a40815db53912e99bd2ec90/lifecycle-service-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/5b03cd82c1897c3918658c7cce53ca09/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:glide:4.3.1] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/10f477b2bca512cfc5c568b8172bae17/jetified-glide-4.3.1/AndroidManifest.xml:2:1-12:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/7bc73955ac183fcae94581dd6f0ec1dc/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b1339d6fbaa9de33125fc1c9c7a93082/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/955018b29357a245a1b1ceffda896785/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/5ea0e4d4e51263004e258cfc30308246/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/2d09150e1df3eda843051b1c45f1eeb4/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/ff2132ebaee1c1a88c5321851fa62b4c/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/f299c1b2c81b25bbba88403124bfaa4b/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/bccf5c6ded87537efb307e7a141d40e7/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.3.1] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/10f477b2bca512cfc5c568b8172bae17/jetified-glide-4.3.1/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/7bc73955ac183fcae94581dd6f0ec1dc/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.volley:volley:1.1.1] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/93b874d40da6716e175b51a65eaa4e13/jetified-volley-1.1.1/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/f50b1d431314c9bdf09901754de34444/play-services-measurement-base-16.0.3/AndroidManifest.xml:2:1-9:12
-INJECTED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:2:1-44:12
-INJECTED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:2:1-44:12
-INJECTED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:2:1-56:12
 	package
 		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:3:11-52
 		INJECTED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml
-		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:2:1-44:12
+		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:2:1-56:12
 		INJECTED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml
-		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:2:1-44:12
+		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:2:1-56:12
 		INJECTED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:10:5-78
+ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:9:5-78
 MERGED from [com.google.android.libraries.places:places:1.1.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b7eadf5cd1e93901a1b0a9973c28d07e/jetified-places-1.1.0/AndroidManifest.xml:9:5-79
 MERGED from [com.google.android.libraries.places:places:1.1.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b7eadf5cd1e93901a1b0a9973c28d07e/jetified-places-1.1.0/AndroidManifest.xml:9:5-79
 	android:name
-		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:10:22-76
+		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:9:22-76
 uses-permission#android.permission.INTERNET
-ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:11:5-66
+ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:10:5-66
 MERGED from [com.google.android.libraries.places:places:1.1.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b7eadf5cd1e93901a1b0a9973c28d07e/jetified-places-1.1.0/AndroidManifest.xml:11:5-67
 MERGED from [com.google.android.libraries.places:places:1.1.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b7eadf5cd1e93901a1b0a9973c28d07e/jetified-places-1.1.0/AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/29f1f84364063b3bd8e727ab903e523e/jetified-firebase-database-16.0.4/AndroidManifest.xml:23:5-67
@@ -107,9 +110,9 @@ MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/sopequip
 MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/65f92498bd3af94f35c78068a0c3d085/jetified-firebase-iid-17.0.4/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/65f92498bd3af94f35c78068a0c3d085/jetified-firebase-iid-17.0.4/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:11:22-64
+		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:10:22-64
 application
-ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:13:5-42:19
+ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:14:5-55:19
 MERGED from [com.google.android.libraries.places:places:1.1.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b7eadf5cd1e93901a1b0a9973c28d07e/jetified-places-1.1.0/AndroidManifest.xml:13:5-24:19
 MERGED from [com.google.android.libraries.places:places:1.1.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b7eadf5cd1e93901a1b0a9973c28d07e/jetified-places-1.1.0/AndroidManifest.xml:13:5-24:19
 MERGED from [com.google.android.material:material:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/AndroidManifest.xml:22:5-20
@@ -124,6 +127,8 @@ MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/sopequipo/.gradle/
 MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/7fb8cba9227715dee528eafb9d2ab6db/jetified-firebase-auth-16.0.5/AndroidManifest.xml:23:5-40:19
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/539528b73d5929f7c5b160cf6db61234/jetified-play-services-maps-16.1.0/AndroidManifest.xml:30:5-36:19
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/539528b73d5929f7c5b160cf6db61234/jetified-play-services-maps-16.1.0/AndroidManifest.xml:30:5-36:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/d8b6446b582bd1d3ea9936bd73959d60/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/d8b6446b582bd1d3ea9936bd73959d60/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/14a609f228be7a0be578896b0f9174e0/jetified-firebase-measurement-connector-impl-17.0.2/AndroidManifest.xml:26:5-32:19
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/14a609f228be7a0be578896b0f9174e0/jetified-firebase-measurement-connector-impl-17.0.2/AndroidManifest.xml:26:5-32:19
 MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/905a13ccc4ee615bd2749012a6d1768b/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:28:5-53:19
@@ -164,6 +169,8 @@ MERGED from [androidx.core:core:1.0.2] /Users/sopequipo/.gradle/caches/transform
 MERGED from [androidx.core:core:1.0.2] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b045f6aef466c2d24a646fe0fb079ac9/core-1.0.2/AndroidManifest.xml:22:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/f9b75644e6c1f41fe5db4a775638f949/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/f9b75644e6c1f41fe5db4a775638f949/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/5fa2310ca1a5f7e78ba6822ed430992c/lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/5fa2310ca1a5f7e78ba6822ed430992c/lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
 MERGED from [com.github.bumptech.glide:glide:4.3.1] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/10f477b2bca512cfc5c568b8172bae17/jetified-glide-4.3.1/AndroidManifest.xml:10:5-20
 MERGED from [com.github.bumptech.glide:glide:4.3.1] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/10f477b2bca512cfc5c568b8172bae17/jetified-glide-4.3.1/AndroidManifest.xml:10:5-20
 MERGED from [com.android.volley:volley:1.1.1] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/93b874d40da6716e175b51a65eaa4e13/jetified-volley-1.1.1/AndroidManifest.xml:9:5-20
@@ -173,51 +180,63 @@ MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /User
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.2] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b045f6aef466c2d24a646fe0fb079ac9/core-1.0.2/AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:18:13-39
+		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:19:13-39
 	android:label
-		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:16:13-45
+		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:17:13-45
 	android:roundIcon
-		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:17:13-58
+		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:18:13-58
 	android:icon
-		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:15:13-47
+		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:16:13-47
 	android:allowBackup
-		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:14:13-39
+		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:15:13-39
 	android:theme
-		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:19:13-44
+		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:20:13-44
+activity#com.mallacreativa.certificacion.Driver.DriverLoginActivity
+ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:23:9-24:20
+	android:name
+		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:23:19-61
+activity#com.mallacreativa.certificacion.Driver.DriverRegisterActivity
+ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:26:9-27:20
+	android:name
+		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:26:19-64
 meta-data#com.google.android.maps.v2.API_KEY
-ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:21:9-23:58
+ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:29:9-31:58
 	android:value
-		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:23:17-56
+		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:31:17-56
 	android:name
-		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:22:17-66
+		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:30:17-66
 activity#com.mallacreativa.certificacion.MapsActivity
-ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:26:9-29:20
+ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:33:9-36:20
 	android:label
-		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:28:17-60
+		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:35:17-60
 	android:name
-		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:27:17-45
-activity#com.mallacreativa.certificacion.RegisterActivity
-ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:30:9-34:20
+		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:34:17-45
+activity#com.mallacreativa.certificacion.User.UserRegisterActivity
+ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:38:9-42:20
 	android:label
-		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:32:17-61
+		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:40:17-61
 	android:theme
-		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:33:17-60
+		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:41:17-60
 	android:name
-		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:31:17-49
-activity#com.mallacreativa.certificacion.MainActivity
-ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:35:9-41:20
+		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:39:17-58
+activity#com.mallacreativa.certificacion.User.UserLoginActivity
+ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:44:9-46:20
 	android:name
-		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:35:19-47
+		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:44:19-57
+activity#com.mallacreativa.certificacion.HomeActivity
+ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:48:9-53:20
+	android:name
+		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:48:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:36:13-40:29
+ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:49:13-52:29
 action#android.intent.action.MAIN
-ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:37:17-68
+ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:50:17-68
 	android:name
-		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:37:25-66
+		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:50:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:39:17-76
+ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:51:17-76
 	android:name
-		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:39:27-74
+		ADDED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml:51:27-74
 uses-sdk
 INJECTED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/sopequipo/Documents/certificacion/app/src/main/AndroidManifest.xml
@@ -242,6 +261,8 @@ MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/sopequipo/.gra
 MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/29f1f84364063b3bd8e727ab903e523e/jetified-firebase-database-16.0.4/AndroidManifest.xml:18:5-20:41
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/539528b73d5929f7c5b160cf6db61234/jetified-play-services-maps-16.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/539528b73d5929f7c5b160cf6db61234/jetified-play-services-maps-16.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/d8b6446b582bd1d3ea9936bd73959d60/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/d8b6446b582bd1d3ea9936bd73959d60/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/14a609f228be7a0be578896b0f9174e0/jetified-firebase-measurement-connector-impl-17.0.2/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/14a609f228be7a0be578896b0f9174e0/jetified-firebase-measurement-connector-impl-17.0.2/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/905a13ccc4ee615bd2749012a6d1768b/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:20:5-44
@@ -324,26 +345,30 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sopequipo/.gradl
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b6aadc2fcd96412daba6d14027f3d864/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/488bc339fe18abda9274466596df01ea/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/488bc339fe18abda9274466596df01ea/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/ff2132ebaee1c1a88c5321851fa62b4c/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/ff2132ebaee1c1a88c5321851fa62b4c/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/f299c1b2c81b25bbba88403124bfaa4b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/f299c1b2c81b25bbba88403124bfaa4b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/bccf5c6ded87537efb307e7a141d40e7/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/bccf5c6ded87537efb307e7a141d40e7/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/2d09150e1df3eda843051b1c45f1eeb4/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/2d09150e1df3eda843051b1c45f1eeb4/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/5fa2310ca1a5f7e78ba6822ed430992c/lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/5fa2310ca1a5f7e78ba6822ed430992c/lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/1c0052c48a40815db53912e99bd2ec90/lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/1c0052c48a40815db53912e99bd2ec90/lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/5b03cd82c1897c3918658c7cce53ca09/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/5b03cd82c1897c3918658c7cce53ca09/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:glide:4.3.1] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/10f477b2bca512cfc5c568b8172bae17/jetified-glide-4.3.1/AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.bumptech.glide:glide:4.3.1] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/10f477b2bca512cfc5c568b8172bae17/jetified-glide-4.3.1/AndroidManifest.xml:6:5-8:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/7bc73955ac183fcae94581dd6f0ec1dc/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/7bc73955ac183fcae94581dd6f0ec1dc/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b1339d6fbaa9de33125fc1c9c7a93082/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/b1339d6fbaa9de33125fc1c9c7a93082/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/955018b29357a245a1b1ceffda896785/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/955018b29357a245a1b1ceffda896785/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/5ea0e4d4e51263004e258cfc30308246/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/5ea0e4d4e51263004e258cfc30308246/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/2d09150e1df3eda843051b1c45f1eeb4/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/2d09150e1df3eda843051b1c45f1eeb4/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/ff2132ebaee1c1a88c5321851fa62b4c/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/ff2132ebaee1c1a88c5321851fa62b4c/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/f299c1b2c81b25bbba88403124bfaa4b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/f299c1b2c81b25bbba88403124bfaa4b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/bccf5c6ded87537efb307e7a141d40e7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/bccf5c6ded87537efb307e7a141d40e7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.3.1] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/10f477b2bca512cfc5c568b8172bae17/jetified-glide-4.3.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.3.1] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/10f477b2bca512cfc5c568b8172bae17/jetified-glide-4.3.1/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/7bc73955ac183fcae94581dd6f0ec1dc/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/7bc73955ac183fcae94581dd6f0ec1dc/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.volley:volley:1.1.1] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/93b874d40da6716e175b51a65eaa4e13/jetified-volley-1.1.1/AndroidManifest.xml:7:5-43
 MERGED from [com.android.volley:volley:1.1.1] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/93b874d40da6716e175b51a65eaa4e13/jetified-volley-1.1.1/AndroidManifest.xml:7:5-43
 MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/f50b1d431314c9bdf09901754de34444/play-services-measurement-base-16.0.3/AndroidManifest.xml:5:5-44
@@ -576,3 +601,13 @@ ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/sopequi
 		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/5ddcbbd7089cf32eb792d3232e37613b/jetified-play-services-basement-16.2.0/AndroidManifest.xml:25:13-66
 	android:name
 		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/5ddcbbd7089cf32eb792d3232e37613b/jetified-play-services-basement-16.2.0/AndroidManifest.xml:24:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/5fa2310ca1a5f7e78ba6822ed430992c/lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/5fa2310ca1a5f7e78ba6822ed430992c/lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/5fa2310ca1a5f7e78ba6822ed430992c/lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/5fa2310ca1a5f7e78ba6822ed430992c/lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/sopequipo/.gradle/caches/transforms-2/files-2.1/5fa2310ca1a5f7e78ba6822ed430992c/lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79
