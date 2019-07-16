@@ -19,6 +19,7 @@ class UserRegisterActivity : AppCompatActivity(), View.OnClickListener {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_register)
+        imageView.setImageResource(R.drawable.user)
         auth = FirebaseAuth.getInstance()
 
         btn_register.setOnClickListener(this)

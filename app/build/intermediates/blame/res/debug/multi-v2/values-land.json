@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sopequipo/Documents/certificacion/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/Users/yesiheso/Documents/certificacion/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/values-land/values-land.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,125,196",
-                        "endColumns": "69,70,67",
-                        "endOffsets": "120,191,259"
-                    }
-                },
-                {
-                    "source": "/Users/sopequipo/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/values-land/values-land.xml",
+                    "source": "/Users/yesiheso/.gradle/caches/transforms-2/files-2.1/e8c8c8a683f5fc7b1e6c905e403fb4d5/material-1.0.0/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +20,16 @@
                         "endLines": "8",
                         "endColumns": "10",
                         "endOffsets": "431"
+                    }
+                },
+                {
+                    "source": "/Users/yesiheso/.gradle/caches/transforms-2/files-2.1/8a5c21359eac77af6a3d47fc3f71c93e/appcompat-1.0.2/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
                     }
                 }
             ]

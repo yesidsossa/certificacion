@@ -11,10 +11,15 @@
 
     <ImageView
             android:layout_width="match_parent"
-            android:layout_height="200dp" app:srcCompat="@drawable/banner_firebase"
-            app:layout_constraintTop_toTopOf="@+id/textInputLayout2" app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent" android:layout_marginTop="40dp"
-            android:layout_marginStart="20dp" android:id="@+id/imageView" android:layout_marginEnd="20dp"/>
+            android:layout_height="200dp"
+            app:layout_constraintTop_toTopOf="@+id/textInputLayout2"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginTop="40dp"
+            android:layout_marginStart="20dp"
+            android:id="@+id/imageView"
+            android:layout_marginEnd="20dp"/>
+
     <com.google.android.material.textfield.TextInputLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

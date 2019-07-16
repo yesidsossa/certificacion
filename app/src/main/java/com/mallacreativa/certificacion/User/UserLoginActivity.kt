@@ -11,6 +11,7 @@ import android.view.Menu
 import android.view.MenuItem
 import com.google.firebase.database.DatabaseReference
 import com.google.firebase.database.FirebaseDatabase
+import com.mallacreativa.certificacion.Driver.MapDriverActivity
 import com.mallacreativa.certificacion.MapsActivity
 import com.mallacreativa.certificacion.R
 
@@ -23,6 +24,7 @@ class UserLoginActivity : AppCompatActivity(), View.OnClickListener {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        imageView.setImageResource(R.drawable.user)
 
         auth = FirebaseAuth.getInstance()
 
@@ -58,9 +60,7 @@ class UserLoginActivity : AppCompatActivity(), View.OnClickListener {
     }
     fun openMap()
     {
-        val intent = Intent(this, MapsActivity::class.java)
-        startActivity(intent)
-
+        startActivity(Intent(this, MapUserActivity::class.java))
     }
 
     fun login(user: String,pass: String)

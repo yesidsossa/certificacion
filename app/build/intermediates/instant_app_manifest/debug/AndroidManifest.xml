@@ -36,6 +36,14 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.mallacreativa.certificacion.User.MapUserActivity" >
+        </activity>
+        <activity android:name="com.mallacreativa.certificacion.Driver.MapDriverActivity" >
+        </activity>
+        <activity android:name="com.mallacreativa.certificacion.Driver.DriverMapActivity" >
+        </activity>
+        <activity android:name="com.mallacreativa.certificacion.ListActivity" >
+        </activity>
         <activity android:name="com.mallacreativa.certificacion.Driver.DriverLoginActivity" >
         </activity>
         <activity android:name="com.mallacreativa.certificacion.Driver.DriverRegisterActivity" >
@@ -63,7 +71,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
         <!-- Autocomplete -->
         <activity
             android:name="com.google.android.libraries.places.widget.AutocompleteActivity"

@@ -22,6 +22,8 @@ class DriverLoginActivity : AppCompatActivity(), View.OnClickListener {
 
         btn_login.setOnClickListener(this)
         tv_register.setOnClickListener(this)
+        imageView.setImageResource(R.drawable.driver)
+
     }
 
     fun login(user: String, pass: String) {
@@ -29,7 +31,7 @@ class DriverLoginActivity : AppCompatActivity(), View.OnClickListener {
         auth.signInWithEmailAndPassword(user, pass)
             .addOnCompleteListener(this) { task ->
                 if (task.isSuccessful) {
-                    Toast.makeText(this, "Inicio", Toast.LENGTH_SHORT).show()
+                    startActivity(Intent(this, MapDriverActivity::class.java))
 
                 } else {
                     Toast.makeText(this, "No inicio", Toast.LENGTH_SHORT).show()
@@ -52,6 +54,7 @@ class DriverLoginActivity : AppCompatActivity(), View.OnClickListener {
         when (v!!.id) {
             R.id.btn_login -> {
                 login(et_email.text.toString(), et_pass.text.toString())
+
             }
 
             R.id.tv_register -> {

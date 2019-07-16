@@ -1449,6 +1449,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable driver
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable ic_launcher_background
@@ -1457,6 +1458,7 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable logo_firebase
+drawable marker
 drawable mtrl_snackbar_background
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
@@ -1481,6 +1483,7 @@ drawable quantum_ic_cloud_off_vd_theme_24
 drawable quantum_ic_search_grey600_24
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable user
 id ALT
 id CTRL
 id FUNCTION
@@ -1777,6 +1780,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_home
+layout activity_list
 layout activity_main
 layout activity_maps
 layout activity_register
@@ -1795,6 +1799,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_password_icon
 layout example_linear
+layout items
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
 layout notification_action
